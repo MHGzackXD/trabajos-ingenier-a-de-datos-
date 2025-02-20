@@ -19,10 +19,10 @@ Requisitos del sistema:
 
 Stakeholder	\\ Tipo \\	Descripción
 -----------------------------------------------------------------------------------------------------
-Estudiantes	\\ Usuario Final \\Utilizan el sistema para solicitar préstamos de libros.
-Profesores	\\ Usuario Final \\Usan el sistema para reservar y solicitar préstamos de libros.
-Bibliotecarios\\	Operador del Sistema \\ Gestionan préstamos, devoluciones y reservas en el sistema.
-Administradores \\ TI	Soporte Técnico \\ Mantienen la infraestructura del sistema.
+Estudiantes	\\ Usuario Final    \\ Utilizan el sistema para solicitar préstamos de libros.
+Profesores	\\ Usuario Final     \\ Usan el sistema para reservar y solicitar préstamos de libros.
+Bibliotecarios  \\Operador del Sistema\\ Gestionan préstamos, devoluciones y reservas en el sistema.
+Administradores \\ TI Soporte Técnico  \\ Mantienen la infraestructura del sistema.
 Universidad	\\ Entidad Reguladora	\\ Institución que establece políticas de uso del sistema.
 
 
